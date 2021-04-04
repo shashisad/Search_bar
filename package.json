@@ -11,5 +11,13 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Searchbar 1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashisad/Search_bar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shashisad/Search_bar/issues"
+  },
+  "homepage": "https://github.com/shashisad/Search_bar#readme"
 }
